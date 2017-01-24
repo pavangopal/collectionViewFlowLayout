@@ -1,0 +1,16 @@
+PODS:
+  - GreedoLayout (1.2.0)
+
+DEPENDENCIES:
+  - GreedoLayout (from `../`)
+
+EXTERNAL SOURCES:
+  GreedoLayout:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GreedoLayout: b1a1adc6ed5f281353225e3eb21d18cedee8e513
+
+PODFILE CHECKSUM: f76489b523587c82c09bf96d5e7741fff880f9ca
+
+COCOAPODS: 1.2.0.beta.3
